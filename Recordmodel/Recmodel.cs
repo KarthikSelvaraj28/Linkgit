@@ -16,7 +16,7 @@ namespace Linqjointables.MODEL
         public int Science { get; set; }
         public int Social { get; set; }
 
-       // public int TotalMarks { get; set; } // Add TotalMarks
+        public int TotalMarks { get; set; } // Add TotalMarks
 
     }
 }
